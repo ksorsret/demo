@@ -5,3 +5,6 @@ $file = fopen($path, 'r');
 var_dump($file);
 
 echo 123;
+
+
+echo 'Login page';
